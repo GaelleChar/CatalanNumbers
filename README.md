@@ -5,7 +5,6 @@ Few Errors that I'm working on, with displaying the answer and for loop
 
 Update (02/27/22) Completed this mini project,
 recursion is annoying on Javascript, but I learned alot.
-Also can't calculate big numbers, but I don't mind it since,
-I have some more stuff to work on.
+Also can't calculate big numbers, but I don't mind.
 
 Until next time...
